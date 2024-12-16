@@ -1,4 +1,4 @@
-# Decoratiuni Management System
+# Decorations Management System
 
 A C++ application for managing a store's decorative items inventory. It allows you to insert, display, search, modify, and delete decorations like statuettes and shrubs.
 
